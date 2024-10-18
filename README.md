@@ -3,12 +3,13 @@ Designed and implemented a database system tailored to the education sector. The
 ## Problem Statement
 As a database developer consultant for an educational institution, your task is to design and implement a database system tailored to the education sector. The system will manage student enrollments, courses, instructors, and academic records.
 
-Task Details: As the database consultant for the education sector, your tasks include:
-1.	Database Design and Normalization:
-•	Design and normalize the database into 3NF, providing detailed explanations and justifications.
-•	Use T-SQL statements in Microsoft SQL Server Management Studio, supported by screenshots.
-•	Create tables and views using T-SQL, highlighting primary keys, foreign keys, and data types.
-•	Apply constraints for data integrity.
+### Task Details: 
+As the database consultant for the education sector, your tasks include:
+- Database Design and Normalization:
+- Design and normalize the database into 3NF, providing detailed explanations and justifications.
+- Use T-SQL statements in Microsoft SQL Server Management Studio, supported by screenshots.
+- Create tables and views using T-SQL, highlighting primary keys, foreign keys, and data types.
+- Apply constraints for data integrity.
 
 ## Skills
 - T-SQL
